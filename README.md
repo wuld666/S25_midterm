@@ -1,5 +1,5 @@
 # Badges for my README
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2Fwuld666%2FS25_midterm/HEAD?urlpath=%2Fdoc%2Ftree%2Fcontent%2FA26.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2Fwuld666%2FS25_midterm/HEAD?urlpath=%2Fdoc%2Ftree%2Fcontent%2FQ26.ipynb)
 
 
 # JupyterLite Demo
